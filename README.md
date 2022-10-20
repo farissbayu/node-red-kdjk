@@ -46,3 +46,8 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
    $ pm2 start node-red
    $ pm2 list
    ```
+
+# Cara Pemakaian
+1. Buka ip address dari node-red yang sudah di deploy pada VPS
+   <h3><img src="https://lh6.googleusercontent.com/KUWFJFOqcFz7Fi5Roo1v3aVRpfoUuw7R5UXt9B9H88Pjp8tKlv5lfP4Xxy2-KPy-B_qjXDS6ldoZ3sm4T-dcSER1qPehzCTQ6ms5U6ZXlIwlhcGWmW2tsSqj8kl0J9R51P7wVSNK907yZSHGasgGqcMPym4vlODQKQv5P5kD70Pyj2ZiwpUD4x5REA"></h3>
+2. Tampilan awal atau menu utama node-red
