@@ -81,12 +81,22 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
    <h3><img src="https://lh5.googleusercontent.com/ImpMyNEJWxCQpDUbVnk3a_oIfvSfXlTqhKvkUVX2gvFbb38i_9Psr9kwEfyQmc6bZNp8ZnV2ThJ4y6VE-X1YG1IS4wpLtJ6GdKIAqIUHsngNlosRGFjWwhp5uUuvJE9QJiNKMWfRlVolSj0V_EKfd8wQZ_2Ly4LfV2zPe1SRnXb7O9XKusvvega75g"></h3>
 
 # Pembahasan
-   Aplikasi ini sangat memudahkan dalam membuat flow pemrograman, programmer jadi tidak perlu mengerjakan coding dari awal.
-   ## Kelebihan
+   Aplikasi ini menggunakan low-code programming, sehingga sangat memudahkan dalam membuat flow pemrograman dan programmer jadi tidak perlu mengerjakan coding dari awal.
+   ### Kelebihan
    - Node-RED menggunakan komponen drag-and-drop yang memungkinkan programmer membuat perangkat lunak baru jauh lebih cepat daripada cara biasanya
    - Node-RED memiliki kualitas tinggi
    - Node-RED merupakan platform open source sehingga dapat digunakan oleh siapapun
    
-   ## Kekurangan
+   ### Kekurangan
+   - GUI yang tersedia masih kurang mudah untuk digunakan dalam penulisan code
+   - Penyimpanannya yang berupa file membuat Node-RED sulit untuk digunakan pada fitur yang berbeda
+   - Pemrograman berbasis flow atau low-code kurang cocok untuk aplikasi berskala besar 
+   
+   ## Aplikasi Serupa
+   Salah satu aplikasi yang serupa dengan Node-RED adalan n8n.io. Keduanya merupakan aplikasi yang dapat mempermudah workflow perangkat lunak dan integrasi. Berikut beberapa perbandingan dari keduanya:
+   - **Node-RED** tidak menyediakan fitur debugging, sedangkan **n8n.io** sudah menyediakan fitur tersebut.
+   - **Node-RED** belum menyediakan template, sedangkan pada **n8n.io** terdapat template untuk memudahkan pembuatan
+   - GUI untuk menulis kode pada **n8n.io** lebih mudah digunakan dibanding dengan **Node-RED**
 
 # Referensi
+- [Instalasi Node-RED[(https://nodered.org/docs/getting-started/local)
