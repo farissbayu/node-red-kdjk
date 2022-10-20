@@ -49,10 +49,19 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
 
 # Cara Pemakaian
 1. Buka ip address dari node-red yang sudah di deploy pada VPS
-   - Tampilan menu utama dari node-red
+   ```
+   Ip Address: 103.187.146.3
+   Port number: 1880
+   Link: 103.187.146.3:1880
+   ```
+   
+2. Tampilan awal atau menu utama node-red
    - Bagian samping kiri, terdapat node yang dapat digunakan untuk membuat sebuah flow pemrograman
    - Bagian kanan akan menampilkan informasi dari flow yang sudah kita buat
    - Bagian tengah adalah tempat untuk membuat flow
    <h3><img src="https://lh6.googleusercontent.com/KUWFJFOqcFz7Fi5Roo1v3aVRpfoUuw7R5UXt9B9H88Pjp8tKlv5lfP4Xxy2-KPy-B_qjXDS6ldoZ3sm4T-dcSER1qPehzCTQ6ms5U6ZXlIwlhcGWmW2tsSqj8kl0J9R51P7wVSNK907yZSHGasgGqcMPym4vlODQKQv5P5kD70Pyj2ZiwpUD4x5REA"></h3>
-   
-2. Tampilan awal atau menu utama node-red
+
+3. Untuk menampilkan hasil flow yang sudah dibuat, memerlukan plugin atau palette tambahan yaitu node-red-dashboard. Palette tambahan bisa diinstal melalui button pada pojok kanan atas dan klik manage palette. Kemudian cari node-red-dashboard pada bagian install
+   <h3><img src="https://lh4.googleusercontent.com/IFCkcAcfnOqSKmFUPlj61vBvLIBOvni4tLnKTzhPo1jwae4ZFOJaX5dlNhTLQccsyg_ScZaJkNai7t3qX72E06I4Km-ATiCd4BxW8ROQjR7shGnSR4_m9BvTpW-kqsxDjl2lR4jYZAnnVf9oAbB7vI2D8nWPNPyeL462bG8nuZOwaBo4g-PmTbNuzg"></h3>
+
+4. 
