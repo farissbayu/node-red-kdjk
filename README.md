@@ -83,8 +83,9 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
 # Pembahasan
    Aplikasi ini sangat memudahkan dalam membuat flow pemrograman, programmer jadi tidak perlu mengerjakan coding dari awal.
    ## Kelebihan
-      - Node-RED menggunakan komponen drag-and-drop yang memungkinkan programmer membuat perangkat lunak baru jauh lebih cepat daripada cara biasanya
-      - Node-RED memiliki kualitas tinggi
+   - Node-RED menggunakan komponen drag-and-drop yang memungkinkan programmer membuat perangkat lunak baru jauh lebih cepat daripada cara biasanya
+   - Node-RED memiliki kualitas tinggi
+   - Node-RED merupakan platform open source sehingga dapat digunakan oleh siapapun
    
    ## Kekurangan
 
