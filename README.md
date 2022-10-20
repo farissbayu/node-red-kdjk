@@ -99,4 +99,6 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
    - GUI untuk menulis kode pada **n8n.io** lebih mudah digunakan dibanding dengan **Node-RED**
 
 # Referensi
-- [Instalasi Node-RED[(https://nodered.org/docs/getting-started/local)
+- [Instalasi Node-RED](https://nodered.org/docs/getting-started/local)
+- [Instalasi Nodejs](https://www.vultr.com/docs/installing-node-js-and-express-on-ubuntu-20-04/)
+- [Penggunaan PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
