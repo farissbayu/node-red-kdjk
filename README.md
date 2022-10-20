@@ -79,3 +79,7 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
    ```
    Berikut hasil dari flow yang sudah dibuat.
    <h3><img src="https://lh5.googleusercontent.com/ImpMyNEJWxCQpDUbVnk3a_oIfvSfXlTqhKvkUVX2gvFbb38i_9Psr9kwEfyQmc6bZNp8ZnV2ThJ4y6VE-X1YG1IS4wpLtJ6GdKIAqIUHsngNlosRGFjWwhp5uUuvJE9QJiNKMWfRlVolSj0V_EKfd8wQZ_2Ly4LfV2zPe1SRnXb7O9XKusvvega75g"></h3>
+
+# Pembahasan
+
+# Referensi
