@@ -17,4 +17,32 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
    ```
    $ sudo apt upgrade
    ```
-2. 
+   Mengunduh dan menginstal pembaruan untuk setiap paket usang dan ketergantungan pada sistem Anda.
+2. Menginstall nodejs:
+   ```
+   $ curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+   $ sudo apt install nodejs
+   $ node --version
+   $ npm --version
+   ```
+3. Menginstall aplikasin Node-RED menggunakan npm:
+   ```
+   $ sudo npm install -g --unsafe-perm node-red
+   $ node-red
+   ```
+4. Mengecek IP public VPS:
+   ```
+   $ dig +short myip.opendns.com @resolver1.opendns.com
+   ```
+5. Mengizinkan port 1880 melalui firewall:
+   ```
+   $ sudo ufw allow 1880
+   $ sudo ufw enable
+   $ sudo ufw status
+   ```
+6. Menginstall pm2 agar aplikasi dapat berjalan di background:
+   ```
+   $ npm install pm2 -g
+   $ pm2 start node-red
+   $ pm2 list
+   ```
