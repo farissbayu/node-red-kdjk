@@ -1,1 +1,1 @@
-![node-red-image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNode-RED&psig=AOvVaw3Yq1N24xSKsaukHjjUszOk&ust=1666355745607000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOj1kJvp7voCFQAAAAAdAAAAABAD)
+<h1 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png"></h1>
