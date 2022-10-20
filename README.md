@@ -64,4 +64,18 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
 3. Untuk menampilkan hasil flow yang sudah dibuat, memerlukan plugin atau palette tambahan yaitu node-red-dashboard. Palette tambahan bisa diinstal melalui button pada pojok kanan atas dan klik manage palette. Kemudian cari node-red-dashboard pada bagian install
    <h3><img src="https://lh4.googleusercontent.com/IFCkcAcfnOqSKmFUPlj61vBvLIBOvni4tLnKTzhPo1jwae4ZFOJaX5dlNhTLQccsyg_ScZaJkNai7t3qX72E06I4Km-ATiCd4BxW8ROQjR7shGnSR4_m9BvTpW-kqsxDjl2lR4jYZAnnVf9oAbB7vI2D8nWPNPyeL462bG8nuZOwaBo4g-PmTbNuzg"></h3>
 
-4. 
+4. Setelah dashboard terinstall akan ada tambahan node yang dapat digunakan. Berikut akan dicontohkan pembuatan flow dengan menggunakan node slider dan gauge
+   - Tambahkan node dan koneksikan.
+      <h3><img src="https://lh6.googleusercontent.com/HWgiSD_MnyncQ-T89E2MI99V874IkcWmtuLOhtxwH2rEzAXAUOv_ggXIf-v0T9bauRkuWf5or6zOF9y8pcTl5uswDCn7Bv6sGo8Ymx4c439yYldkBB5P2FrlY5_fBE9fRuOEzTUg2H4PdXdZsP24URhrCcaLDIFYnB2yR4MvzeOyPX85zgcNCwu6Pg"></h3>
+   - Ubah properti pada node, isikan group dan tab. Kemudian sesuaikan node dengan keinginan.
+      <h3><img src="https://lh5.googleusercontent.com/YZCTWZ9uT_971h1QGeO2tCqzeOBC2QI-ldDtKEGfz4NI6YCK-AfpbH0OuJxMblnG-V5HtprNoFz5yDn_uGb2OiwUG4Ffpm5JDVefqwrkBHpHef_AILQnz9mHgajjmDen8_HEv_EOWYrPTICpHE_H3irdE2uZJadyqnBNG4gkIn_aqZBRF1GRMsUCjg"></h3>
+   - Deploy flow yang sudah dibuat.
+      <h3><img src="https://lh4.googleusercontent.com/FcMcfMvgmj3QBsXT-yYwE_LdEO4UNJ_xc3caUMrI_r9ZQqKIDpvjH50680WuNiQz29pm7WQP6tulCxmrdahKmhtM2x1l71FwHT0YklYv4TWxUDuPI6xgdVQrJftCSSPhBhGI1dbuAfyqY4_e3i37M5XLj_96CUb4Xm4fiRlGu3-cs_hdekIc1cxBlQ"></h3>
+
+
+5. Untuk menampilkan hasil flow yang sudah dibuat, buka alamat ip dan port kemudian tambahkan ui dibelakangnya.
+   ```
+   103.187.146.3:1880/ui
+   ```
+   Berikut hasil dari flow yang sudah dibuat.
+   <h3><img src="https://lh5.googleusercontent.com/ImpMyNEJWxCQpDUbVnk3a_oIfvSfXlTqhKvkUVX2gvFbb38i_9Psr9kwEfyQmc6bZNp8ZnV2ThJ4y6VE-X1YG1IS4wpLtJ6GdKIAqIUHsngNlosRGFjWwhp5uUuvJE9QJiNKMWfRlVolSj0V_EKfd8wQZ_2Ly4LfV2zPe1SRnXb7O9XKusvvega75g"></h3>
