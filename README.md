@@ -49,5 +49,8 @@ Node-RED adalah alat pemrograman untuk menghubungkan perangkat keras, API, dan l
 
 # Cara Pemakaian
 1. Buka ip address dari node-red yang sudah di deploy pada VPS
+   - Tampilan menu utama dari node-red
    <h3><img src="https://lh6.googleusercontent.com/KUWFJFOqcFz7Fi5Roo1v3aVRpfoUuw7R5UXt9B9H88Pjp8tKlv5lfP4Xxy2-KPy-B_qjXDS6ldoZ3sm4T-dcSER1qPehzCTQ6ms5U6ZXlIwlhcGWmW2tsSqj8kl0J9R51P7wVSNK907yZSHGasgGqcMPym4vlODQKQv5P5kD70Pyj2ZiwpUD4x5REA"></h3>
+   - Bagian samping kiri, terdapat node yang dapat digunakan untuk membuat sebuah flow pemrograman
+   - Bagian kanan akan menampilkan informasi dari flow yang sudah kita buat. Bagian tengah adalah tempat untuk membuat flow
 2. Tampilan awal atau menu utama node-red
